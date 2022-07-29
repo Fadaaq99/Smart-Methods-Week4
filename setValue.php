@@ -1,7 +1,7 @@
 <?php
+
 $conn = mysqli_connect('localhost','id19342687_smartmethods','0987654321Aa!','id19342687_smartmethod') or die("Connection failed");
-    
-$sql = "SELECT id,sensorValue FROM sensors";
+$sql = "SELECT idSensor,sensorValue FROM sensor";
 
 $result = mysqli_query($conn, $sql);
 if (!$result) {
@@ -9,6 +9,6 @@ if (!$result) {
 }
 
 while ($row = mysqli_fetch_assoc($result)) {
-    echo 'id: ' . $row['id'] . ' sensor Value:'  .  $row['sensorValue'] .'<br/>' ;
+    echo 'id: ' . $row['idSensor'] . ' sensor Value:'  .  $row['sensorValue'] .'<br/>' ;
 }
 
