@@ -14,7 +14,7 @@ https://smartmethods-3.000webhostapp.com/getValue.php?sensor=1001
 <br />
 <br />
 ثانيا يمكننا عرض القيم التي تم حفظها عن طريق الرابط التالي :
-https://yasseralharbi2.github.io/sensor-value-SM3/
+https://fadaaq99.github.io/Smart-Methods-Week4/
 <br />
 # شرح للمهمه كاملة
 الجزء الاول من المهمه:
