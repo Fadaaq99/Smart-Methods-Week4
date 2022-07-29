@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect('localhost','id19338134_smartmethods','123456789a!A','id19338134_yasseralharbi') or die("Connection failed");
+$conn = mysqli_connect('localhost','id19342687_smartmethods','0987654321Aa!','id19342687_smartmethod') or die("Connection failed");
     
 $sql = "SELECT id,sensorValue FROM sensors";
 
