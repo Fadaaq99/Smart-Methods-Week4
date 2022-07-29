@@ -75,6 +75,6 @@ index.html
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/98231758/181792053-bbfd1157-20a5-4504-ad01-f76e58ff9eb5.png)
+![image](https://user-images.githubusercontent.com/98231758/181792524-6f09db88-a468-437f-b26a-52fcf16a7e26.png)
 <br />
 <br />
