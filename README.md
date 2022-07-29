@@ -56,7 +56,7 @@ https://smartmethods-3.000webhostapp.com/getValue.php?sensor=1001
 هذا هو الكود الخاص بادخال البيانات الى قاعدة البيانات:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/98231758/181792020-f6051849-f093-4f1d-b31a-fdfa3697ab0a.png)
+![image](https://user-images.githubusercontent.com/98231758/181793370-072ba10f-b110-413b-a2a2-e5d247e1a10f.png)
 <br />
 <br />
 بعض القيم التي تم حظفها في قاعدة البيانات:
@@ -75,6 +75,6 @@ index.html
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/98231758/181792524-6f09db88-a468-437f-b26a-52fcf16a7e26.png)
+![image](https://user-images.githubusercontent.com/98231758/181793393-84749974-04d6-4e7d-bf49-3b186a2ba35b.png)
 <br />
 <br />
