@@ -1,16 +1,14 @@
 <?php
-$conn = mysqli_connect('localhost','id19338134_smartmethods','123456789a!A','id19338134_yasseralharbi') or die("Connection failed");
 
-$sensorValue = $_GET['sensor'];
-$query = "INSERT INTO sensors (id, sensorValue) VALUES (NULL, $sensorValue)";
+$conn = mysqli_connect('localhost','id19342687_smartmethods','0987654321Aa!','id19342687_smartmethod') or die("Connection failed");
+$sql = "SELECT idSensor,sensorValue FROM sensor";
 
-$result = $conn->query($query);
-    if ($result === FALSE) {
-        
-    print("Error");
-    
-    }else{
-        print("The value has been added successfully"); 
-
+$result = mysqli_query($conn, $sql);
+if (!$result) {
+    die("Error in query");
 }
-?>
+
+while ($row = mysqli_fetch_assoc($result)) {
+    echo 'id: ' . $row['idSensor'] . ' sensor Value:'  .  $row['sensorValue'] .'<br/>' ;
+}
+
