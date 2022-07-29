@@ -31,10 +31,10 @@ https://fadaaq99.github.io/Smart-Methods-Week4/
 بعد ذلك قمنا بانشاء قاعدة بيانات لتخزين قيم الحساس كما هو موضح في الصور التالية:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/110176361/181617890-11c38ede-799c-4dfc-8756-bb8cfa936b68.png)
+![image](https://user-images.githubusercontent.com/98231758/181791468-9b9fea43-6ce8-4d45-9f6a-4c316f15c321.png)
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/110176361/181617992-849c55ef-b459-4d8a-9058-f4b4bbb8c6be.png)
+![image](https://user-images.githubusercontent.com/98231758/181791570-67a6a3df-971e-442f-af90-a99761e66160.png)
 <br />
 <br />
 الجزء الثالث من المهمه:
@@ -56,13 +56,13 @@ https://smartmethods-3.000webhostapp.com/getValue.php?sensor=1001
 هذا هو الكود الخاص بادخال البيانات الى قاعدة البيانات:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/110176361/181622431-0f3239e0-0cd3-4946-a6b8-e6e9fb2ad446.png)
+![image](https://user-images.githubusercontent.com/98231758/181792020-f6051849-f093-4f1d-b31a-fdfa3697ab0a.png)
 <br />
 <br />
 بعض القيم التي تم حظفها في قاعدة البيانات:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/110176361/181622558-1cc494e1-4b51-407f-ab5b-9d74ffef628c.png)
+![image](https://user-images.githubusercontent.com/98231758/181791850-e0741022-82d7-46e6-abbb-98d6e449f4f0.png)
 <br />
 <br />
 الجزء الاخير من المهمه:
@@ -75,6 +75,6 @@ index.html
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/110176361/181622618-332e23c2-e4de-4af3-b009-2ca4465ff65f.png)
+![image](https://user-images.githubusercontent.com/98231758/181792053-bbfd1157-20a5-4504-ad01-f76e58ff9eb5.png)
 <br />
 <br />
